@@ -48,10 +48,6 @@ Contributions to the Grocery Management System are welcome! If you find any issu
 
 Please ensure to follow coding standards, write clear commit messages, and provide appropriate documentation for your contributions.
 
-# Contact
-
-If you have any questions or need assistance, feel free to reach out me at ghutecharudatta@gmail.com. Your feedback and inquiries are highly valued as we strive to enhance the Grocery Management System for a better experience.
-
 # Project Demo Video
 Check out our project demo video to get a visual walkthrough of the Grocery Management System in action. This video provides an overview of the system's features, functionality, and how it can help streamline your grocery store operations.
 
@@ -62,6 +58,8 @@ https://github.com/CharudattaGhute/Grocery-Management-System/assets/122104600/1a
 
 We hope you find the video informative and insightful. If you have any questions or would like to explore specific aspects of the system further, please don't hesitate to reach out to us.
 
+# Contact
 
+If you have any questions or need assistance, feel free to reach out me at ghutecharudatta@gmail.com. Your feedback and inquiries are highly valued as we strive to enhance the Grocery Management System for a better experience.
 
 
