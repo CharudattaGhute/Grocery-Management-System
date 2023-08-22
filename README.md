@@ -33,7 +33,7 @@ We can use the MySql UI.
 Open the server.py file in your project and update the database connection configuration. You'll need to provide the host, username, password, and database name that you've set up.
 
 DATABASE_CONFIG = {
-    'host': '127.0.0.1',
+    'localhost': '127.0.0.1',
     'user': 'your_username',
     'password': 'your_password',
     'database': 'grocery_store'
