@@ -62,4 +62,9 @@ We hope you find the video informative and insightful. If you have any questions
 
 If you have any questions or need assistance, feel free to reach out me at ghutecharudatta@gmail.com. Your feedback and inquiries are highly valued as we strive to enhance the Grocery Management System for a better experience.
 
+# Contact
+
+If you have any questions or need assistance, feel free to reach out me at ghutecharudatta@gmail.com. Your feedback and inquiries are highly valued as we strive to enhance the Grocery Management System for a better experience.
+
+
 
